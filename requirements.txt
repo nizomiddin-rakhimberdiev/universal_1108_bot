@@ -1,0 +1,17 @@
+aiogram~=2.25.1
+environs~=11.0.0
+qrcode~=7.4.2
+instaloader~=4.12
+Wikipedia-API~=0.6.0
+wikipedia~=1.4.0
+python-docx~=1.1.2
+pillow~=10.4.0
+pdf2docx~=0.5.8
+googletrans-python~=0.2.0
+docx2pdf~=0.1.8
+gtts~=2.5.1
+yt-dlp~=2024.7.9
+
+
+
+
